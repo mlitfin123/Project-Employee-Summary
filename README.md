@@ -9,7 +9,6 @@ This application uses NodeJS in the command line to prompt the user with questio
 * [Installation](#installation) 
 * [Usage](#usage) 
 * [License](#license) 
-* [Questions](#questions) 
  
 ## Installation 
 1.  Open command line  
