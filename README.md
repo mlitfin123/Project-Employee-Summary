@@ -1,3 +1,3 @@
 # homework10-Template-Engine---Employee-Summary
 
-![Optional Text](../master/images/screenshot.png)
+![GitHub Logo](/images/screenshot.png)
